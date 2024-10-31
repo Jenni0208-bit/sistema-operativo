@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>C5DDFF</corfondo>
+        <corbanda>F7B4CB</corbanda>
+        <cornavega>F7B4CB</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Sisitema Operativo</titulo>
+        <autor>Jennifer Castillo</autor>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">sistemasoperativos_sistemasyoperativos.jpg</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">que_es.PNG</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>2</tipo>
+              <texto posx="37" posy="6" ancho="607" largo="414"><![CDATA[<font size="12"><iframe width="640" height="480" src="https://www.youtube.com/embed/KmId8zVw0DQ?si=EP6lBtxIUVG3TgRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></font>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="4" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Caracteristicas.PNG</imaxe>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <imaxe posx="0" posy="0">Estructura.PNG</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>17</tipo>
+              <parellas>ios.PNG</parellas>
+              <parellas>Linux.PNG</parellas>
+              <parellas>mac.PNG</parellas>
+              <parellas>windos.PNG</parellas>
+              <parellas>x.PNG</parellas>
+              <parellas>android.PNG</parellas>
+              <cfondo>C5DDFF</cfondo>
+              <ctapa>FF378B</ctapa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>3</tipo>
+              <imaxe>rompecabezas.PNG</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+              <texto>¿Qué es un sistema operativo?</texto>
+              <resp texto="" valor="0">Un tipo de computadora</resp>
+              <resp texto="" valor="1">Un programa que ayuda a que la computadora funcione</resp>
+              <resp texto="" valor="0">Un videojuego</resp>
+              <resp texto="" valor="0">Un dispositivo de almacenamiento</resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>1</tipo>
+              <texto>¿Cuál de las siguientes opciones es un sistema operativo?</texto>
+              <resp texto="" valor="0">Microsoft Word</resp>
+              <resp texto="" valor="0">Google Chrome</resp>
+              <resp texto="" valor="1">Window</resp>
+              <resp texto="" valor="0">Minecraft</resp>
+        </paxina>
+        <paxina id="10" >
+              <tipo>1</tipo>
+              <texto>¿Cuál es la función principal de un sistema operativo?</texto>
+              <resp texto="" valor="0">Jugar juegos</resp>
+              <resp texto="" valor="0">Crear documentos</resp>
+              <resp texto="" valor="0">Navegar por internet</resp>
+              <resp texto="" valor="1">Controlar el hardware y gestionar los programas</resp>
+        </paxina>
+    </libro>
+</lim>
